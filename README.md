@@ -29,3 +29,13 @@ LinkedList.java
 QueueRev.java
 
 QueueUsingStack.java
+
+DeleteMiddleElem.java
+
+ReverseStack.java
+
+Reverse_k_element_queue.java
+
+StackUsingQueue.java
+
+StackWith1Queue.java
